@@ -14,7 +14,7 @@
     "gulp-imagemin": "latest",
     "gulp-load-plugins": "~0.7.0",
     "gulp-print": "latest",
-    "gulp-ruby-sass": "~0.7.1",
+    "gulp-less": "latest",
     "gulp-size": "~1.1.0",
     "gulp-sourcemaps": "latest",
     "gulp-useref": "latest",
